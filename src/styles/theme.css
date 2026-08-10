@@ -1,0 +1,23 @@
+:root {
+  --bg-deep: #030b19;
+  --bg-deeper: #020711;
+  --bg-panel: rgba(7, 22, 43, 0.7);
+  --bg-panel-solid: #07162b;
+  --bg-panel-hover: rgba(10, 41, 85, 0.62);
+  --blue-deep: #0a2955;
+  --blue-electric: #2c71c7;
+  --blue-bright: #6aa6f4;
+  --blue-muted: #1e559c;
+  --blue-glow: rgba(62, 139, 238, 0.38);
+  --cyan-glow: rgba(105, 181, 255, 0.72);
+  --text-primary: #f1f3f3;
+  --text-secondary: #8a98a8;
+  --text-soft: #b7c4d2;
+  --border-subtle: rgba(114, 167, 230, 0.15);
+  --border-active: rgba(92, 160, 242, 0.48);
+  --glow-soft: 0 0 38px rgba(35, 105, 198, 0.13);
+  --glow-strong: 0 0 48px rgba(44, 113, 199, 0.24);
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --max-width: 1440px;
+}
